@@ -21,6 +21,9 @@
   <a href="https://portfolio-ivory-five-34.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-80ff80?&style=for-the-badge&%20alt=mail%20style=%22margin-bottom:%205px" />
   </a> 
+  <a href="https://leetcode.com/u/Vaibhav-Jain/" target="_blank">
+  <img src="https://img.shields.io/badge/Leetcode-91DAAA?&style=for-the-badge&logo=leetcode&logoColor=blue%20alt=mail%20style=%22margin-bottom:%205px;" />
+  </a> 
 </div>
 
 <br>
