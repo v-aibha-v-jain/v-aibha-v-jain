@@ -18,6 +18,9 @@
   <a href="mailto:vaibhavjain.vjv@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/E_mail-64188E?&style=for-the-badge&logo=gmail&logoColor=blue%20alt=mail%20style=%22margin-bottom:%205px;" />
   </a> 
+  <a href="https://portfolio-ivory-five-34.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-80ff80?&style=for-the-badge&%20alt=mail%20style=%22margin-bottom:%205px" />
+  </a> 
 </div>
 
 <br>
