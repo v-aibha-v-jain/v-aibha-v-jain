@@ -88,7 +88,7 @@
 
 <br/>  
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=v-aibha-v-jain&show_icons=true&locale=en&layout=compact" alt="v-aibha-v-jain" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-aibha-v-jain&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
 
 ###
 
@@ -102,6 +102,14 @@
 
 ###
 
+
+<h3 align="center"> GitHub Trophies </h3>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=v-aibha-v-jain&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" /></p>
+
+<h3 align="center">🔝 Top Contributed Repo </h3>
+<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=v-aibha-v-jain&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true" /></p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **v-aibha-v-jain/v-aibha-v-jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
