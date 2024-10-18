@@ -113,6 +113,41 @@
 [![An image of @vaibhavjain1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhavjain1)](https://holopin.io/@vaibhavjain1)
 
 
+
+<div align="center">
+  <table>
+    <tr>
+      <h3 align = "center">Credly Badges</h3>
+    </tr>
+    <tr>
+      <td>
+         <a href="https://www.credly.com/badges/edc07055-e7dc-4345-81ab-2206c836c6a8/public_url">
+        <img src="https://images.credly.com/size/150x150/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/126a8bfe-0f3e-4803-9e0e-6890f1f34d5b/public_url">
+        <img src="https://images.credly.com/size/150x150/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/dc5ce116-e946-407a-9e48-3dfe9a32518a/public_url">
+        <img src="https://images.credly.com/size/127x127/images/59248cc0-2be2-432c-8268-8cded324ec33/image.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/78121bcd-c177-4709-b372-53ce0372fe0f/public_url">
+        <img src="https://images.credly.com/size/127x127/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **v-aibha-v-jain/v-aibha-v-jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
