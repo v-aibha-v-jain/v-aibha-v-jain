@@ -102,13 +102,16 @@
 </div>
 
 
+<h3 align="center">🔝 Top Contributed Repo </h3>
+<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=v-aibha-v-jain&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true" /></p>
+
 
 
 <h3 align="center"> GitHub Trophies </h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=v-aibha-v-jain&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" /></p>
 
-<h3 align="center">🔝 Top Contributed Repo </h3>
-<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=v-aibha-v-jain&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true" /></p>
+[![An image of @vaibhavjain1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhavjain1)](https://holopin.io/@vaibhavjain1)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
