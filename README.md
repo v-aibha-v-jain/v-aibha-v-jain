@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Jain</h1>
-
-<h3 align="center">A Full Stack Web-Developer and ML Enthusiast</h3>
+<a width="100%" href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.demolab.com?font=Arima&duration=2500&pause=1000&color=00F7F6&background=253848&center=true&vCenter=true&width=435&lines=Hello+there!!+I'm+Vaibhav+%F0%9F%91%8B;A+software+Engineer;Full+Stack+Web-Developer;Java+Developer;ML+Enthusiast;Freelancer" alt="Typing SVG" /></a>
 
 <br>
 
@@ -27,6 +25,57 @@
 </div>
 
 <br>
+
+
+
+
+
+
+
+[![An image of @vaibhavjain1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhavjain1)](https://holopin.io/@vaibhavjain1)
+
+
+
+<div align="center">
+  <table>
+    <tr>
+      <h3 align = "center">Credly Badges</h3>
+    </tr>
+    <tr>
+      <td>
+         <a href="https://www.credly.com/badges/edc07055-e7dc-4345-81ab-2206c836c6a8/public_url">
+        <img src="https://images.credly.com/size/150x150/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/126a8bfe-0f3e-4803-9e0e-6890f1f34d5b/public_url">
+        <img src="https://images.credly.com/size/150x150/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/dc5ce116-e946-407a-9e48-3dfe9a32518a/public_url">
+        <img src="https://images.credly.com/size/127x127/images/59248cc0-2be2-432c-8268-8cded324ec33/image.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/78121bcd-c177-4709-b372-53ce0372fe0f/public_url">
+        <img src="https://images.credly.com/size/127x127/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+<h3 align="center"> GitHub Trophies </h3>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=v-aibha-v-jain&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" /></p>
+
+
+
+
+
+
 
 <h3 align = "center">Languages and Tools</h3> 
 <table><tr><td align="center" valign="top" width="33%">
@@ -105,44 +154,6 @@
 <h3 align="center">🔝 Top Contributed Repo </h3>
 <p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=v-aibha-v-jain&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true" /></p>
 
-
-
-<h3 align="center"> GitHub Trophies </h3>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=v-aibha-v-jain&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" /></p>
-
-[![An image of @vaibhavjain1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhavjain1)](https://holopin.io/@vaibhavjain1)
-
-
-
-<div align="center">
-  <table>
-    <tr>
-      <h3 align = "center">Credly Badges</h3>
-    </tr>
-    <tr>
-      <td>
-         <a href="https://www.credly.com/badges/edc07055-e7dc-4345-81ab-2206c836c6a8/public_url">
-        <img src="https://images.credly.com/size/150x150/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.credly.com/badges/126a8bfe-0f3e-4803-9e0e-6890f1f34d5b/public_url">
-        <img src="https://images.credly.com/size/150x150/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.credly.com/badges/dc5ce116-e946-407a-9e48-3dfe9a32518a/public_url">
-        <img src="https://images.credly.com/size/127x127/images/59248cc0-2be2-432c-8268-8cded324ec33/image.png">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.credly.com/badges/78121bcd-c177-4709-b372-53ce0372fe0f/public_url">
-        <img src="https://images.credly.com/size/127x127/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 
