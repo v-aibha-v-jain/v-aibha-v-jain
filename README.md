@@ -147,7 +147,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=v-aibha-v-jain&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /><br>
-  <img align="center" src="https://leetcard.jacoblin.cool/Vaibhav-Jain?theme=dark&font=Open%20Sans&ext=heatmap" width="380">
 </div>
 
 
