@@ -16,7 +16,7 @@
   <a href="mailto:vaibhavjain.vjv@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/E_mail-64188E?&style=for-the-badge&logo=gmail&logoColor=blue%20alt=mail%20style=%22margin-bottom:%205px;" />
   </a> 
-  <a href="https://portfolio-ivory-five-34.vercel.app/" target="_blank">
+  <a href="https://vaibhav-jain.me" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-80ff80?&style=for-the-badge&%20alt=mail%20style=%22margin-bottom:%205px" />
   </a> 
   <a href="https://leetcode.com/u/Vaibhav-Jain/" target="_blank">
@@ -69,7 +69,7 @@
 
 
 <h3 align="center"> GitHub Trophies </h3>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=v-aibha-v-jain&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" /></p>
+<p align="center"><img src="https://github-trophies.vercel.app/?username=v-aibha-v-jain&theme=alduin&no-frame=false&no-bg=true&margin-w=4" /></p>
 
 
 
@@ -78,7 +78,7 @@
 
 
 <h3 align = "center">Languages and Tools</h3> 
-<table><tr><td align="center" valign="top" width="33%">
+<table align="center"><tr><td align="center" valign="top" width="33%">
 
 ### WEB-DEV-TOOLS  
 <div align="center">  
@@ -152,24 +152,3 @@
 
 <h3 align="center">🔝 Top Contributed Repo </h3>
 <p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=v-aibha-v-jain&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true" /></p>
-
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**v-aibha-v-jain/v-aibha-v-jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
