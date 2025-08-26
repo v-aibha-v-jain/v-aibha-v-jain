@@ -78,6 +78,35 @@
 
 
 <h3 align = "center">Languages and Tools</h3> 
+
+```typescript
+const Tech_Stack = {
+  Web_Dev: {
+    [ Node, TypeScript, Angular, ModularJS, React, Express ]
+  },
+  App_Dev: {
+    [ Java, Kotlin, Dart, Figma, GoLang ]
+  },
+  Back_end: {
+    [ Flask, PHP, Express ]
+  },
+  Automation: {
+    [ UiPath, BluePrism, { Python: [ Selenium, BS4, PyautoGUI ] } ]
+  },
+  DBMS: {
+    [ SQL, MongoDB, FireBase, SupaBase, Postgre ]
+  },
+  Tools: {
+    [
+      VScode, Eclipse, AndroidStudio, MySql, MongoDB, FireBase,
+      Render, SupaBase, vercel, Hostinger, Figma,
+      UiPathStudio, BluePrism
+    ] // and ofc github
+  }
+}
+```
+
+<!--
 <table align="center"><tr><td align="center" valign="top" width="33%">
 
 ### WEB-DEV-TOOLS  
@@ -134,6 +163,7 @@
 </div>
 
 </td></tr></table>  
+-->
 
 <br/>  
 
