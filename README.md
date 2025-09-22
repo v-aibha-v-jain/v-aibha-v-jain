@@ -85,7 +85,7 @@ const Tech_Stack = {
     [ Node, TypeScript, Angular, ModularJS, React, Express ]
   },
   App_Dev: {
-    [ Java, Kotlin, Dart, Figma, GoLang ]
+    [ Java, Kotlin, Dart, Flutter, GoLang ]
   },
   Back_end: {
     [ Flask, PHP, Express ]
@@ -99,7 +99,7 @@ const Tech_Stack = {
   Tools: {
     [
       VScode, Eclipse, AndroidStudio, MySql, MongoDB, FireBase,
-      Render, SupaBase, vercel, Hostinger, Figma,
+      Render, SupaBase, Vercel, Hostinger, Figma,
       UiPathStudio, BluePrism
     ] // and ofc github
   }
